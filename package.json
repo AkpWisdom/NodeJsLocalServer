@@ -1,0 +1,14 @@
+{
+  "name": "local-server",
+  "version": "1.0.0",
+  "description": "NodeJs local Server-using Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Akpevwe",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
